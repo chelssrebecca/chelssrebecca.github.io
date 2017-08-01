@@ -1,0 +1,20 @@
+body {
+    background-color: white;
+}
+h1 {
+    color: black;
+    font-family: verdana;
+    font-size: 300%;
+    text-align: center;
+}
+div {
+    color: #ee436e;
+    font-family: verdana;
+    font-size: 200%;
+    text-align: center;
+}
+button  {
+    font-size: 145%;
+    margin:auto;
+  	display:block;
+}
